@@ -1,2 +1,1 @@
-#!/bin/bash
-vincent staff
+chown vincent:staff_hello
